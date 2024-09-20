@@ -58,7 +58,6 @@ The project involves the following steps:
 - **Python**: For data analysis and clustering (libraries like Pandas, NumPy, Scikit-Learn).
 - **Jupyter Notebook**: For documenting the analysis and results.
 - **Matplotlib**: For creating visualizations and plots.
-- 
 
 
 ## Results
